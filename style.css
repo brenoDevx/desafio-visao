@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.content-box {
+  width: 95%;
+  height: 60vh;
+  margin: 24px;
+  padding: 16px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+}
